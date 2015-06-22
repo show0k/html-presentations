@@ -12,7 +12,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
 		<link rel="stylesheet" href="reveal.js/css/reveal.css">
-		<link rel="stylesheet" href="reveal.js/css/theme/black.css" id="theme">
+        <!-- <link rel="stylesheet" href="reveal.js/css/theme/black.css" id="theme"> -->
+		<link rel="stylesheet" href="reveal.js/css/theme/serif.css" id="theme">
 
 		<!-- Code syntax highlighting -->
 		<link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
@@ -59,30 +60,32 @@
                     <script type="text/template">
                     # *Snap!*
                     Dérivé (fork) de Scratch.
-
+                    // insérer une capteure d'écran des deux
 
                     ---
-
+                    <aside class="notes">
+                     Amandine et Antoine ?
+                   </aside>
                     ## Avantages:
-                    * Entièrement en HTML + javascript -> Executable dans un naviateur
+                    * Entièrement en HTML5 + javascript, ne nécessite pas d'installation
                     * Build Your Own Blocks
-                    * Outils de programmation fonctionnelle, et Orientée objet (pour la version future)
+                    * Programmation fonctionnelle (lamda calcul), et bientôt orientée objet (pour la prochaine version)
 
                     ---
                     ## Inconvéniants
-                    * Communauté plus petite (Jens Möening et Brian Harvey)
-                    * Plus gourment en ressources
-                    * Peu de support pédagogiques spécifiques (mais )
-
-
-                    ---
-                    # Blocks snap! spécifiques
-                    Le défit est de trouver un bon vocabulaire. Se détacher du langage de programmation pour se mettre dans la peau des utilisateurs
+                    * Communauté plus petite, mais très compétante (Jens Möening et Brian Harvey de Bercley)
+                    * Plus gourment en ressources 
+                    * Peu de support pédagogiques spécifiques (mais ceux de Snap! peuvent s'y adapter)
 
                     ---
-                    # Snap! et Python
+                    ## Snap! et Python
                     "Faire" des mouvements, de multiples interêts éducatifs
-                    Cinématique directe, inverse. Notions de géométrie simple (pour moins de 3 DDL), 
+                    Notions de géométrie simple (pour moins de 3 DDL) :
+                    * Cinématique directe
+                    * Cinématique inverse
+                    --- 
+                    # Apprentissage de mouvements
+                    Acceder facilement 
 
                     Matrices et calcul numériques plus complexes lorsqu'on ajoute plus de moteurs.
                     Comment représenter un mouvement.
@@ -94,7 +97,6 @@
                     </script>
                 </section>
 
-                <section data-background="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></section>
 
                 <section>
                     <h1>Création de blocks Snap! spécifiques à Pypot</h1>
