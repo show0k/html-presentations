@@ -85,7 +85,7 @@
              
                     Simulateur V-REP
                     ---
-                    ### Dualité Réel - Simulé
+                    ### Dualitée Réel - Simulé
                     - La notion de validité écologique
                     ---
                     ### Ressources Pédagogiques
@@ -116,9 +116,8 @@
 
                     ---
 
-                    ###D'autre langage...
+                    ###D'autres langages...
 
-                    ---
 
                     </script>
                  </section>
@@ -160,10 +159,11 @@
                     ## Intégration de Pypot dans *Snap!* 
                     Utilisation d'une API REST :
                     --- 
-                    ![](images/restapi_final.png)
+                    <img src="images/restapi_final.png" align=center style="border-style: none">
+
                     ---
-                    Permet d'utiliser pypot avec d'autres languages
-                    ![](images/multi_languages_rest.jpg)
+                    Permet d'utiliser pypot avec d'autres langages
+                    <img src="images/multi_languages_rest.jpg" align=center style="border-style: none">
                     ---
                     </script>
                 </section>
@@ -193,8 +193,8 @@
 		    ### Exemple concret
 		    #### **Première séquence :** _Prise en main de Snap! et Poppy Torso_
 		    <p class="fragment"> <small> - 3 à 5 séances : de 2h minimum <br /> - élèves traivaillent par binôme </small></p>  
-		    <p class="fragment">__Objectif :__  découvirir _Poppy_ et _Snap!_</p>
-		    <p class="fragment">__Objectif de fin de séquence :__ faire faire des movements simples à _Poppy_ via _Snap!_ (_ex : salut de la main_)</p>
+		    <p class="fragment">__Objectif :__  découvrir _Poppy_ et _Snap!_</p>
+		    <p class="fragment">__Objectif de fin de séquence :__ faire faire des mouvements simples à _Poppy_ via _Snap!_ (_ex : salut de la main_)</p>
 
 		    ---
 		    #### Séance 1 : **Qu'est ce que Poppy**
@@ -266,25 +266,53 @@
                 <!-- Part Théo 2 -->
                 <section data-markdown data-separator="---">
                     <script type="text/template">
-                    ### Intérêts éducatifs d'une base humanoïde ?
-                    ---
-                    ### Notions de trigonométrie simple (pour moins de 3 DDL) :
-                    * Cinématique directe
-                    * Cinématique inverse 
+                    ### Intérêts éducatifs autours de la création de mouvements ?
 
                     --- 
                     <aside class="notes">
-                    A passer rapidement
+                    On contrôlle les moteurs dans l'espace des moteurs, mais on réfléchis dans l'espace des tâches. Apporte des confusions                    
                     </aside>
-                    ### Différencier les repères :
-                    * Espace orthonormé (espace des tâches)
-                    * Espace des moteurs
+                    ### Différencier les repères
+                    * Espace orthonormé (espace des tâches) : repère fixe dans l'espaces
+                    * Espace des moteurs : repère propre à chaque moteur
+
+                    ---
+                     <aside class="notes">
+                        Nécessaire si l'on veut travailler dans l'espace des tâches.
+                        Faisable avec de la trigo de Lycée                  
+                    </aside>
+                    ### Notions de trigonométrie simples 
+                    Applicable à moins de 3 DDL :
+                    * Cinématique directe
+                    * Cinématique inverse 
+                    <!-- .slide: class="two-floating-elements" -->
+                     
+                    ![](images/ik.jpg)
 
                     --- 
-                    ### Représentation de mouvement
+                    ### Représentation d'un mouvement
+
                     * Une série de positions
                     * Une série de positions référencées par un certain temps
                     * Représentations "plus scientifiques" (GMM, DMP, ...)
+
+                    ---
+
+                    ### Combinaison de plusieurs mouvements
+                    Comment formaliser l'imbrication de mouvements, joués de façon séquentielle et concurrente ?
+                    <p class="fragment">
+                    <img src="images/snap_concurent.png" align=center style="border-style: none" size=20%>
+                    </p>
+
+
+
+
+
+                    ---
+                    #### Atelier/démo programmation Poppy à 16h20
+                    <img src="images/atelier.jpg" align=center style="border-style: none" size=20%>
+
+
                     </script>
                 </section>
 
