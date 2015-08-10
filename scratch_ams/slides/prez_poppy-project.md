@@ -1,3 +1,6 @@
-## Your Slide Goes Here
+## Poppy-project
 
-This slide contents available in `slides/1.md`
+<aside class="notes">
+                    Multiplateforme, aucune installation, l'utiliser sur une 
+</aside>
+    
