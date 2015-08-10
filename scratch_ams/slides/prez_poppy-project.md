@@ -1,6 +1,7 @@
-## Poppy-project
+# Poppy-project
+<!-- .slide: data-background="#ff0000"       -->
+<!-- .slide: style="text-align: left;"> -->
+A robotic platform for :
+* scientists
+* artists
 
-<aside class="notes">
-                    Multiplateforme, aucune installation, l'utiliser sur une 
-</aside>
-    
