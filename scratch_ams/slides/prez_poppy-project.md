@@ -120,6 +120,13 @@ Poppy Ergo Junior:
 <img src="pictures/ergojr.jpg" width="50%" align="left"/>
 <video data-autoplay src="video/poppy_ergo_jump.mp4" align="right" ></video>
 
+--new--
+
+## Science and art
+todo
+--new--
+## Education
+todo
 
 
 

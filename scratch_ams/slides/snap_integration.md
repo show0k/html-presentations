@@ -1,5 +1,12 @@
-# Snap!
+# _Snap!_
+--new--
+## Why using _Snap!_
+* __Web__ technology (HTML5 + JS)
+* Advanced programmation concepts (lamda calcul)
 
+--new--
+
+## Integration of Snap! with pypot
 --new--
 ## Future:  
 Integration of a web "simulator"

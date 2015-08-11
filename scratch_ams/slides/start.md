@@ -1,5 +1,5 @@
 
-# Snap! for Poppy
+# _Snap!_ for Poppy
 ### A talk by __[Théo Segonds & Pierre Rouanet][website]__ / __[@poppy_project][twitter]__
 
 INRIA Flowers Team
