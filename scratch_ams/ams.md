@@ -16,3 +16,9 @@ Talk :
 
 
 Faire une vidéo avec bras qui sert à dessiner
+
+
+TODO
+* Inserer la video de présentation du dessin avec le torso
+* X convertir la video en gif ...
+* Parler rapidement de VREP -> non necessité d'avoir un robot

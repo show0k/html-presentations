@@ -2,7 +2,8 @@
 
 ### Questions?
 
-__[Théo Segonds & Pierre Rouanet][website]__ / __[@poppy_project][twitter]__
+#### __[Théo Segonds & Pierre Rouanet][website]__  __[@poppy_project][twitter]__
+__[http://poppy-project.com][website]__
 
 INRIA Flowers Team
 

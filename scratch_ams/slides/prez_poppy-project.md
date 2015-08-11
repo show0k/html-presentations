@@ -30,8 +30,8 @@ black boxes are motors.
 </table>
 
 --new--
-## Technology stack
-Poppy platform is think to __learn__, __create__, __experiment and be hacked!__
+## Technologies stack
+Poppy platform is thought to __learn__, __create__, __experiment and be hacked!__
 <div id="contentBox" style="margin:0px auto; width:100%">
  <div id="column1" style="float:left; margin:0; width:33%;">
    <h4> Software </h4>
@@ -118,15 +118,22 @@ Poppy Ergo:
 Poppy Ergo Junior:
 
 <img src="pictures/ergojr.jpg" width="50%" align="left"/>
-<video data-autoplay src="video/poppy_ergo_jump.mp4" align="right" ></video>
+<img src="video/poppy_ergo_jump.gif" align="right" />
 
 --new--
 
-## Science and art
+## Used for _science_, _art_ and _education_
 todo
+
+Note:
+
 --new--
 ## Education
 todo
+Note:
+Example of a workshop
+Transition live coding
+
 
 
 

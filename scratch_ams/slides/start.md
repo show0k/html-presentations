@@ -1,6 +1,7 @@
 
 # _Snap!_ for Poppy
-### A talk by __[Théo Segonds & Pierre Rouanet][website]__ / __[@poppy_project][twitter]__
+### __[Théo Segonds & Pierre Rouanet][website]__  __[@poppy_project][twitter]__
+__[http://poppy-project.com](https://poppy-project.com)__
 
 INRIA Flowers Team
 
