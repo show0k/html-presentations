@@ -15,7 +15,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
         <link rel="stylesheet" href="reveal.js/css/reveal.css">
-        <link rel="stylesheet" href="reveal.js/css/theme/night.css" id="theme">
+        <link rel="stylesheet" href="reveal.js/css/theme/serif.css" id="theme">
         <!-- <link rel="stylesheet" href="reveal.js/css/theme/serif.css" id="theme"> -->
 
         <!-- Code syntax highlighting -->
@@ -33,6 +33,30 @@
         <!--[if lt IE 9]>
         <script src="reveal.js/lib/js/html5shiv.js"></script>
         <![endif]-->
+
+
+        <!-- Custom CSS -->
+        <style type="text/css">
+        .reveal section img { background:none; border:none; box-shadow:none; }
+        /*table { margin-left: auto; margin-right: auto; }*/
+/*
+            .reveal .slides {
+        text-align: left;
+    }
+    .reveal .slides section>* {
+        margin-left: 0;
+        margin-right: 0;
+            html.img-right div.slide-background.present {
+                background-position: right;
+            }
+
+        .reveal .slides .title {
+          text-shadow: 0px 0px 25px rgb(100,256,0); 
+          font-size: 300%;
+        }*/
+        </style>
+
+
     </head>
 
 
@@ -42,9 +66,17 @@
 
             <!-- Any section element inside of this container is displayed as a slide -->
             <div class="slides">
-                <section data-markdown="slides/start.md" data-separator="-----"></section>
-                <section data-markdown="slides/prez_poppy-project.md" data-separator="-----"></section>
-                <section data-markdown="slides/snap_integration.md" data-separator="-----"></section>
+                <section data-markdown="slides/start.md" data-separator="--new--"></section>
+                <section data-markdown="slides/prez_poppy-project.md" 
+                        data-separator="--new--"
+                        data-separator-vertical="--vert--"
+                        data-separator-notes="^Note:">
+                </section>
+                <section data-markdown="slides/snap_integration.md" 
+                        data-separator="--new--"
+                        data-separator-vertical="--vert--"
+                        data-separator-notes="^Note:">
+                </section>
                 <section data-markdown="slides/end.md" data-separator="-----"></section>
             </div>
 
