@@ -12,20 +12,25 @@ INRIA Flowers Team
 Note:
 Hi, I'm Théo Segonds, A master intern at Flowers lab in INRIA. I'm here with my supervisor, Pierre Rouanet. I'll present you the poppy project, a robotic platform made for research art and education, and how to connect it with Snap!.
 
-I'll first present you the FLowers Lab and the Poppy Project, and after I'll show you the experiments we made on with Snap! 
+I'll first present you the FLowers Lab and the Poppy Project, and after I'll show you the experiments we've made with Snap! 
 
 
 --new--
 ## Flowers Laboratory
-#### Developemental robotics
-#### Constructing robots inspired by animal development
+### Developmental robotics
+<!-- #### Constructing robots inspired by animal development -->
 <img src="pictures/FlowersFields2.jpg" style="border-style: none" align="left" width="46%" />
 <img src="pictures/baxter.jpg" style="border-style: none" align="right" width="52%" />
 
 
 Note:
-A project team at INRIA Bordeaux and ENSTA Paris
-Developemental robotics is a scientific field which aims at studying 
-Constructing machines and robots, inspired by animal cognitive development, and capable of lifelong development, adaptation and interaction with the physical and social world.
+A project team at INRIA Bordeaux and ENSTA Paris for which the main research field is about developmental robotics.
+Developmental robotics is a scientific field which aims at studying mechanisms that allow learning of new skills and new knowledges in embodied machines. 
 
-morphology
+Three Years ago, as part of Matthieu Lapeyre thesis on biped locomotion, we needed a robot that allow us to explore morphology. This is how the poppy project is born
+
+<!-- For understanding body interactions for biped locomotion, 
+Constructing machines and robots, inspired by animal cognitive development, and capable of lifelong development, adaptation and interaction with the physical and social world.
+such as the speech or the sensorimotor space.
+.
+morphology -->

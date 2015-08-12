@@ -6,7 +6,7 @@
 ## Integration of Snap! with pypot
 
 --new--
-<!-- .slide: data-background="pictures/restapi_final.png" data-background-size="70%"-->
+<!-- .slide: data-background="pictures/snap_restapi.png" data-background-size="70%"-->
 
 <!-- <img src="pictures/restapi_final.png" align=center style="border-style: none"> -->
 
