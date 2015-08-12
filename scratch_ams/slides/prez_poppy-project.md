@@ -39,7 +39,7 @@ Poppy platform is thought to __learn__, __create__, __experiment and be hacked!_
 </div>
 <div id="column2" style="float:left; margin:0;width:33%;">
  <h4> Mechanical  </h4>
- <video data-autoplay src="video/poppy_print_timelapse.mp4"></video>
+ <video autoplay loop data-autoplay src="video/poppy_print_timelapse.mp4"></video>
 </div>
 
 <div id="column3" style="float:left; margin:0;width:33%">
@@ -115,7 +115,7 @@ Poppy Ergo:
 --new--
 <!-- .slide: data-transition="none"-->
 ## A family of robots
-Poppy Ergo Junior:
+Poppy Ergo Jr:
 
 <img src="pictures/ergojr.jpg" width="50%" align="left"/>
 <img src="video/poppy_ergo_jump.gif" align="right" />
@@ -123,13 +123,17 @@ Poppy Ergo Junior:
 --new--
 
 ## Used for _science_, _art_ and _education_
-todo
+<img src="pictures/art3.jpg" align="left" width="35%" />
+<img src="pictures/walk.gif" align="right" width="40%"  />
+<img src="pictures/art2.jpg"   align="left" width="30%" />
 
 Note:
 
 --new--
 ## Education
-todo
+<img src="pictures/robot_maker_day1.jpg" width="56%" align="left"/>
+<img src="pictures/comacina_scratch1.jpg" width="41.5%" align="right"/>
+
 Note:
 Example of a workshop
 Transition live coding
