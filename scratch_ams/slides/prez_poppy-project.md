@@ -91,10 +91,11 @@ The software is based on a python library, and the electronic on arduino and ras
    </ul> 
  </div>
 </div>
+<img src="pictures/github_logo.png" height="70px"/>
 
+https://github.com/poppy-project/pypot
 Note:
-The software and hardware are OpenSource, and hosted on Github
-
+The Electronic, mechanic and software are open source and can be download and modified on GitHub.
 --new--
 <!-- .slide: data-transition="none"-->
 ## A family of robots
