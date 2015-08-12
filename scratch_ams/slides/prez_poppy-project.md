@@ -101,6 +101,8 @@ The Electronic, mechanic and software are open source and can be download and mo
 ## A family of robots
 
 <img src="pictures/poppy_fishing.jpg" />
+Note:
+As we intended to make the platform easy to modify, the poppy family has quickly expanded.
 --new--
 
 <!-- .slide: data-transition="none"-->
@@ -108,7 +110,8 @@ The Electronic, mechanic and software are open source and can be download and mo
 Poppy Humanoid :
 
 <img src="pictures/humanoid_batman.jpg" width="70%"/>
-
+Note:
+The initial robot
 
 --new--
 
@@ -116,21 +119,22 @@ Poppy Humanoid :
 ## A family of robots
 Poppy Humanoid  modified:
 <img src="pictures/lot_of_shapes.png" width="100%"/>
-
+Note:
+And some of its morphological modifications
 --new--
 <!-- .slide: data-transition="none"-->
 ## A family of robots
 Poppy Torso:
 
-<img src="pictures/torso_hello.jpg" width="50%"/>
+<img src="pictures/torso_hello.jpg" width="70%"/>
+Note:
+We made after poppy torso, which is poppy humanoid without the legs and with a suction disc to maintain it on the table. It's easier to use than the humanoid because it's avoid all stabilisations issues. As main cost of the robot come from the motors, by halving the number of motors, it approximately halving the cost which makes it more affordable.
 
---new--
-<!-- .slide: data-transition="none"-->
-## A family of robots
+<!-- ## A family of robots
 Poppy Ergo:
 
 <img src="pictures/ErgoRobots14.jpg" align="right" hspace="10px" border="10"width="50%"/>
-<img src="pictures/ErgoRobots13.jpg" align="left" width="50%"/>
+<img src="pictures/ErgoRobots13.jpg" align="left" width="50%"/> -->
 
 
 --new--
@@ -138,8 +142,10 @@ Poppy Ergo:
 ## A family of robots
 Poppy Ergo Jr:
 
-<img src="pictures/ergojr.jpg" width="50%" align="left"/>
-<img src="video/poppy_ergo_jump.gif" align="right" />
+<img src="pictures/ergojr.jpg" width="45%" align="left"/>
+<img src="video/poppy_ergo_jump.gif" width="45%" align="right" />
+Note:
+These creatures use the same brand of motors but with a cheaper version. On the base we can put a raspberry pi and a camera. You can maybe recognize the jump of the pixar lamp.
 
 --new--
 
@@ -149,13 +155,16 @@ Poppy Ergo Jr:
 <img src="pictures/art2.jpg"   align="left" width="30%" />
 
 Note:
+As I explained, poppy was originally made for science, but it's also used for art and education. 
 
 --new--
-## Education
+## Education ... a beginning
 <img src="pictures/robot_maker_day1.jpg" width="56%" align="left"/>
 <img src="pictures/comacina_scratch1.jpg" width="41.5%" align="right"/>
 
 Note:
+Few month ago we received a funding for developing educational activities with the poppy platform and we will be able to hire 4 peoples on the project. 
+We already started to make some experiments with educational activities
 Example of a workshop
 Transition live coding
 

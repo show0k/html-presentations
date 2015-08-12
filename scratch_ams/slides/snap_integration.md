@@ -2,18 +2,18 @@
 --new--
 
 # Live coding !
+
 --new--
 ## Integration of Snap! with pypot
 
---new--
-<!-- .slide: data-background="pictures/snap_restapi.png" data-background-size="70%"-->
+<img src="pictures/snap_restapi.png" align=center style="border-style: none">
 
-<!-- <img src="pictures/restapi_final.png" align=center style="border-style: none"> -->
 
---new--
+
+<!-- 
 Allow to use other programming languages
 <img src="pictures/multi_languages_rest.jpg" align=center style="border-style: none">
-
+ -->
 
 --new--
 ## Future:  
